@@ -28,13 +28,6 @@ You can install the project with 2 method
     * clone the repository using command ` git clone https://github.com/SubramanyaKS/rock-paper-scissor.git `
     * run the `index.html` file
 
-
-## Deployment
-
-The website is deployed in Github Pages.
-
-you can refer [this page](https://pages.github.com/). for more details about deployment 
-
 ## Screen Record
 
 
@@ -42,12 +35,12 @@ you can refer [this page](https://pages.github.com/). for more details about dep
 
 ## Authors
 
-- [Subramanya K S](https://www.github.com/SubramanyaKS)
+- ADITI MISHRA
 
 ## Feedback
 
 Feedback and suggestions are always welcome.
-If you have any feedback, please reach out to me at [email](connectwithsubbu@gmail.com)
+If you have any feedback, please reach out to me at [email](connectwithaditimishra7511@gmail.com)
 
 If you like this don't forget to ⭐ the repository.
 
