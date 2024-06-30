@@ -179,7 +179,7 @@ To start the game, open the `index.html` file in a web browser.
 - **Theme Customization**: Allow players to choose different themes and tile designs.
 
 ### DEMO VIDEO
-[Rock Paper Scissors Game]((https://github.com/Adityagupta1536/Game-Project/tree/main/Games/Stone%20Paper%20%26%20scissor))                   | [Live Demo](https://github.com/Adityagupta1536/Game-Project/Games/2048-Game/) |
+[2048- Game]((https://github.com/Adityagupta1536/Game-Project/tree/main/Games/2048-Game))                   | [Live Demo](https://github.com/Adityagupta1536/Game-Project/Games/2048-Game/) |
 
 
 ### Contributing
