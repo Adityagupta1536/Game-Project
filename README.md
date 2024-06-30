@@ -32,7 +32,7 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### DEMO VIDEO
-[Rock Paper Scissors Game]((https://github.com/Adityagupta1536/Game-Project/tree/main/Games/Stone%20Paper%20%26%20scissor))                   | [Live Demo](https://github.com/Adityagupta1536/Game-Project/tree/main/Games/StonePaper&Scissors/) |
+[Rock Paper Scissors Game]((https://github.com/Adityagupta1536/Game-Project/tree/main/Games/Stone%20Paper%20%26%20scissor))                   | [Live Demo](https://github.com/Adityagupta1536/Game-Project/Games/StonePaper&Scissors/) |
 
 ### Author
 **Name:** Aditi Mishra  
