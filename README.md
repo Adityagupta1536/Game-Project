@@ -14,6 +14,9 @@ Rock paper scissors (also known by other orderings of the three items, with "roc
 * JavaScript
 * Visual Studio Code
 
+## View Demo
+[Rock Paper Scissors Game] (https://github.com/Adityagupta1536/Game-Project/tree/main/Games/Stone Paper & scissor) [Live Demo] (https://github.com/Adityagupta1536/Game-Project/Stone Paper & scissor/)
+
 
 ## Installation
 
