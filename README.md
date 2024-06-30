@@ -178,6 +178,9 @@ To start the game, open the `index.html` file in a web browser.
 - **Mobile Optimization**: Improve the game’s performance and usability on mobile devices.
 - **Theme Customization**: Allow players to choose different themes and tile designs.
 
+### DEMO VIDEO
+[Rock Paper Scissors Game]((https://github.com/Adityagupta1536/Game-Project/tree/main/Games/Stone%20Paper%20%26%20scissor))                   | [Live Demo](https://github.com/Adityagupta1536/Game-Project/Games/2048-Game/) |
+
 
 ### Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
