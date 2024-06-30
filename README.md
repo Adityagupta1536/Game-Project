@@ -1,52 +1,191 @@
-# Rock Paper Scissor
+Here's the corrected markdown format for your README files:
 
-Rock paper scissors (also known by other orderings of the three items, with "rock" sometimes being called "stone," or as Rochambeau, roshambo, or ro-sham-bo) is a hand game originating in China, usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock" (a closed fist), "paper" (a flat hand), and "scissors" (a fist with the index finger and middle finger extended, forming a V).(information credits to [Wikipedia](https://en.m.wikipedia.org/wiki/Rock_paper_scissors))
+## Stone Paper Scissors Game
 
-## Features
+### Overview
+This is a simple implementation of the classic game "Stone Paper Scissors" (Rock Paper Scissors) in JavaScript. The game allows the user to play against the computer.
 
-- Responsive Website
-- Fullscreen mode
+### Technologies Used
+- HTML
+- CSS
+- JavaScript
 
-## Technology Used
+### Features
+- Single-player mode against the computer
+- Random computer choices
+- User input for selecting stone, paper, or scissors
+- Win/loss/tie detection
 
-* HTML
-* CSS
-* JavaScript
-* Visual Studio Code
+### Game Logic
+1. **User Input:** The game prompts the user to choose between stone, paper, or scissors.
+2. **Computer Choice:** The computer randomly selects its move.
+3. **Result Determination:** The game logic compares the user's choice with the computer's choice to determine the winner:
+   - Stone crushes scissors
+   - Scissors cuts paper
+   - Paper covers stone
+4. **Output Result:** The game displays the result (win/loss/tie) to the user and may prompt for another round.
 
-## View Demo
-[Rock Paper Scissors Game] (https://github.com/Adityagupta1536/Game-Project/tree/main/Games/Stone Paper & scissor) [Live Demo] (https://github.com/Adityagupta1536/Game-Project/Stone Paper & scissor/)
+### Contributing
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### DEMO VIDEO
+./rock pepar seccior.mp4
+
+### Author
+**Name:** Aditi Mishra  
+**Roll No:**  
+**Email:** aditimishra7511@gmail.com
+
+---
+
+## Tic Tac Toe Game
+
+### Overview
+This is a simple implementation of the classic game "Tic Tac Toe" in JavaScript. The game can be played by two players.
+
+### Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+### Features
+- Two-player mode
+- Basic game interface
+- Win, X, 0 & Draw detection
+
+### How It Works
+1. **User Input:** Players take turns to place their marks (X or O) on the board.
+2. **Game Board:** The board is a 3x3 grid where players place their marks.
+3. **Win/Tie Detection:** The game checks for a win (three marks in a row, column, or diagonal) or a tie (no more empty spaces and no winner).
+4. **Output Result:** The game announces the result (win/tie) and play for another round.
+
+### Game Logic
+- **Board Representation:** The board is represented as a 2D array or list.
+- **Player Turns:** Players alternate turns to place their marks.
+- **Win Conditions:** Check all rows, columns, and diagonals for three identical marks.
+- **Tie Condition:** Check if all spaces are filled without a winner.
+
+### Contributing
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+### DEMO VIDEO
+ ./Tic Toc Toe.mp4
 
 
-## Installation
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-You can install the project with 2 method
-1. By using  Zip method.
+### Author
+**Name:** Ansh Vishnoi  
+**Roll No:** 36  
+**Email:** vishnoiansh25@gmail.com
 
-    * Download the project in zip format using "Download Zip " option.
-    * Save it in folder and run `index.html` file. 
+---
 
-2. Using git.
+## Tetris Game
 
-    * clone the repository using command ` git clone https://github.com/SubramanyaKS/rock-paper-scissor.git `
-    * run the `index.html` file
+### Introduction
+Tetris is a tile-matching puzzle video game originally designed and programmed by Alexey Pajitnov. This project recreates the classic game with a modern twist, implemented using HTML5, CSS, and JavaScript.
 
-## Screen Record
+### Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+### Usage
+To start the game, open the `index.html` file in a web browser.
+
+### Controls
+- Arrow keys: Move tiles
+- ctrl+R: Restart the game
+- Q: For Rotate
+
+### Game Logic
+- **Tile Generation:** A new tile (2 or 4) appears at a random empty position on the grid after each move.
+- **Tile Movement:** Tiles slide in the direction of the player's input (left, right, up, down).
+- **Tile Merging:** When two tiles of the same number collide, they merge into one tile with their sum.
+- **Score Calculation:** The score increases by the value of the merged tiles.
+- **Game Over:** The game ends when there are no valid moves left (no empty spaces and no adjacent tiles with the same number).
+
+### How the Game Works
+1. **Initialization:** The game initializes a 4x4 grid with two randomly placed tiles (2 or 4).
+2. **Tile Movement:** Players use the arrow keys to slide all tiles in the chosen direction. Tiles slide until they hit the edge of the grid or another tile.
+3. **Tile Merging:** When two tiles with the same number collide, they merge into one tile with their combined value. The merged tile cannot merge again in the same move.
+4. **New Tile Generation:** After each move, a new tile (2 or 4) appears at a random empty position on the grid.
+5. **Score Calculation:** The player's score increases by the value of the tiles merged in that move.
+6. **Game Over:** The game checks for possible moves after each move. The game ends if there are no valid moves left (no empty spaces and no adjacent tiles with the same number).
+
+### Future Enhancements
+- Enhanced animations and effects
+- Leaderboard to track high scores
+- Additional game modes (e.g., timed mode, challenge mode)
+- Improved AI for better tile generation
+
+### Contributing
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+### DENO VIDEO
+./tetris .mp4
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Author
+**Name:** Anviksha Srivastava  
+**Roll No:** 64  
+**Email:** anvikshashrivastav@gmail.com
+
+---
+
+## 2048 Game
+
+### Introduction
+2048 is a single-player sliding block puzzle game. The game was developed by Gabriele Cirulli and has gained widespread popularity due to its simple yet addictive gameplay. This project recreates the game using HTML5, CSS3, and JavaScript.
+
+### Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+### Usage
+To start the game, open the `index.html` file in a web browser.
+
+### Controls
+- Arrow keys: Slide the tiles
+- R: Restart the game
 
 
-![Website Preview](./images/preview_1.png)
+## How to Play
+- Use the arrow keys (up, down, left, right) to move the tiles.
+- When two tiles with the same number collide, they merge into one with the sum of the two tiles.
+- The goal is to create a tile with the number 2048.
+- The game is over when there are no possible moves left.
 
-## Authors
-
-- ADITI MISHRA
-
-## Feedback
-
-Feedback and suggestions are always welcome.
-If you have any feedback, please reach out to me at [email](connectwithaditimishra7511@gmail.com)
-
-If you like this don't forget to ⭐ the repository.
+## Game Logic
+1. **Grid Initialization**: The game starts with a 4x4 grid with two randomly placed tiles, each with a value of either 2 or 4.
+2. **Tile Movement**: Tiles are moved in the direction of the arrow keys pressed. All tiles move as far as possible in the selected direction until they either hit the edge of the grid or another tile.
+3. **Tile Merging**: When two tiles with the same value collide, they merge to form a new tile with their combined value. After each move, a new tile (with a value of 2 or 4) is added to a random empty spot on the grid.
+4. **Winning and Losing Conditions**: The player wins by creating a 2048 tile. The game ends when there are no empty spaces and no possible moves left.
 
 
-Thank You for visiting
-Have a nice day 😊 
+## Future Enhancements
+- **Undo Feature**: Allow players to undo their last move.
+- **Online Multiplayer Mode**: Implement a competitive mode where players can compete against each other in real-time.
+- **AI Solver**: Implement an AI that can play the game and achieve high scores.
+- **Mobile Optimization**: Improve the game’s performance and usability on mobile devices.
+- **Theme Customization**: Allow players to choose different themes and tile designs.
+
+
+### Contributing
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Author
+**Name:** Aditya Gupta  
+**Roll No:**  
+**Email:** adityagupta1536@gmail.com
