@@ -48,5 +48,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### Author
 **Name:** Aditya Gupta  
-**University Roll No:**  
+**Semester:** 2nd  
 **Email:** adityagupta1536@gmail.com
