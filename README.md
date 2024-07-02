@@ -16,6 +16,14 @@ This is a simple implementation of the classic game "Stone Paper Scissors" (Rock
 - User input for selecting stone, paper, or scissors
 - Win/loss/tie detection
 
+ ### Future Enhancements
+ - Multiplayer Mode
+ - AI Improvements
+ - Tournament Mode
+ - Customizable Game Rules
+ - Enhanced Graphics and Animations
+ - Voice Command Integration
+
 ### Game Logic
 1. **User Input:** The game prompts the user to choose between stone, paper, or scissors.
 2. **Computer Choice:** The computer randomly selects its move.
@@ -37,7 +45,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### Author
 **Name:** Aditi Mishra  
-**Roll No:**  
+**University Roll No:**  
 **Email:** aditimishra7511@gmail.com
 
 ---
@@ -56,6 +64,18 @@ This is a simple implementation of the classic game "Tic Tac Toe" in JavaScript.
 - Two-player mode
 - Basic game interface
 - Win, X, 0 & Draw detection
+
+### Future Enhancements
+- Online Multiplayer Mode
+- AI Difficulty Levels
+- Player Statistics and Leaderboards
+- Customizable Game Themes
+- Tournament Mode
+- Enhanced Graphics and Animations
+- Voice Command Integration
+- Mobile App Development
+- Local Multiplayer on a Single Device
+- In-Game Chat 
 
 ### How It Works
 1. **User Input:** Players take turns to place their marks (X or O) on the board.
@@ -80,7 +100,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### Author
 **Name:** Ansh Vishnoi  
-**Roll No:** 36  
+**University Roll No:** 36  
 **Email:** vishnoiansh25@gmail.com
 
 ---
@@ -135,7 +155,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### Author
 **Name:** Anviksha Srivastava  
-**Roll No:** 64  
+**University Roll No:** 64  
 **Email:** anvikshashrivastav@gmail.com
 
 ---
@@ -190,5 +210,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### Author
 **Name:** Aditya Gupta  
-**Roll No:**  
+**University Roll No:**  
 **Email:** adityagupta1536@gmail.com
