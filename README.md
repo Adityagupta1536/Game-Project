@@ -32,7 +32,8 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### DEMO VIDEO
-[Rock Paper Scissors Game]((https://github.com/Adityagupta1536/Game-Project/tree/main/Games/Stone%20Paper%20%26%20scissor))                   | [Live Demo](https://github.com/Adityagupta1536/Game-Project/Games/StonePaper&Scissors/) |
+(https://youtu.be/2uVpW0D5P8o?si=DDW8nJ0NSnF_AXbE)
+
 
 ### Author
 **Name:** Aditi Mishra  
@@ -72,8 +73,7 @@ This is a simple implementation of the classic game "Tic Tac Toe" in JavaScript.
 Contributions are welcome! Please fork the repository and submit a pull request.
 
 ### DEMO VIDEO
- ./Tic Toc Toe.mp4
-
+(https://youtu.be/z50Ux0f9WWc?si=1xJcA5-IKhKRe-eE)
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -127,8 +127,8 @@ To start the game, open the `index.html` file in a web browser.
 ### Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-### DENO VIDEO
-./tetris .mp4
+### DEMO VIDEO
+(https://youtu.be/FmmHYk5Ve4I?si=SwKfjKngMKILZsn6)
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -178,12 +178,12 @@ To start the game, open the `index.html` file in a web browser.
 - **Mobile Optimization**: Improve the game’s performance and usability on mobile devices.
 - **Theme Customization**: Allow players to choose different themes and tile designs.
 
-### DEMO VIDEO
-[2048- Game]((https://github.com/Adityagupta1536/Game-Project/tree/main/Games/2048-Game))                   | [Live Demo](https://github.com/Adityagupta1536/Game-Project/Games/2048-Game/) |
-
 
 ### Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
+
+### DEMO VIDEO
+(https://youtu.be/bAOiJGA9fLw?si=obSfaaEyF5Whadj5)
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
