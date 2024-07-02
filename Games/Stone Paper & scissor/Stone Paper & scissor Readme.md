@@ -43,5 +43,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### Author
 **Name:** Aditi Mishra  
-**Semester:**  2nd
+**Semester:** 2nd
 **Email:** aditimishra7511@gmail.com
